@@ -1,0 +1,18 @@
+{
+  "name": "鎴戠殑姣忔棩鐪嬫澘",
+  "short_name": "姣忔棩鐪嬫澘",
+  "description": "涓撲负鎵嬫満璁捐鐨勪换鍔＄鐞嗗簲鐢?,
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#5b6af0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' style='stop-color:%235b6af0'/><stop offset='100%25' style='stop-color:%238b5cf6'/></linearGradient></defs><rect width='192' height='192' rx='40' fill='url(%23g)'/><rect x='36' y='50' width='120' height='18' rx='6' fill='white' opacity='0.9'/><rect x='36' y='82' width='100' height='18' rx='6' fill='white' opacity='0.7'/><rect x='36' y='114' width='80' height='18' rx='6' fill='white' opacity='0.5'/><circle cx='160' cy='59' r='8' fill='%2334c759'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
